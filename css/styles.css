@@ -1,0 +1,49 @@
+.col-md-12 {
+  height: 100px;
+  background-color: purple;
+  color: #fff;
+}
+
+.col-md-6 {
+  height: 100px;
+  background-color: blue;
+  color: #000;
+}
+
+  .col-md-3 {
+    border: 2px solid #000;
+    height:100px;
+    background-color: green;
+  }
+
+  .col-md-4 {
+    border: 1px solid #000;
+    height: 50px;
+    background-color: yellow;
+  }
+
+  .col-lg-9 {
+    border: 1px solid #000;
+    background-color:orange;
+  }
+
+  .col-lg-3 {
+    border: 1 px solid#000;
+    background-color:grey;
+}
+    .container-fluid {
+    height: 50px;
+    background-color:red;
+    }
+
+
+    .container {
+      height: 50px;
+      background-color:pink;
+    }
+
+    .absolute-lorem {
+      position: absolute;
+      top: 20px;
+      left: 200px;
+    }
